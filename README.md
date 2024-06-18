@@ -7,3 +7,5 @@ I'm a full stack software engineer based in United States 🇺🇸
 - 💬 Ask me about [Flutter](https://flutter.dev) & [Angular](https://flutter.dev)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pravenmoorthy)
 - ⚡ Fun fact: I love basket 🏀 and tennis 🎾
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praven07&layout=compact&theme=default)
